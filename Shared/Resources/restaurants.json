@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Lanches Familia",
+        "deliveryTax": "8,49",
+        "deliveryTime": "45-55 min",
+        "rate": "4.6",
+        "imageName": "breakfast",
+    },
+    {
+        "id": 2,
+        "name": "Poki Food",
+        "deliveryTax": "5,49",
+        "deliveryTime": "35-45 min",
+        "rate": "4.1",
+        "imageName": "poki",
+    },
+    {
+        "id": 3,
+        "name": "Mr Salad",
+        "deliveryTax": "2,50",
+        "deliveryTime": "45-55 min",
+        "rate": "4.3",
+        "imageName": "salad",
+    },
+    {
+        "id": 4,
+        "name": "Tamagoyaki",
+        "deliveryTax": "7,49",
+        "deliveryTime": "45-55 min",
+        "rate": "4.9",
+        "imageName": "sushi",
+    },
+]
